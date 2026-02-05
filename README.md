@@ -1,7 +1,10 @@
 # volleyball-stochastic-analysis
 24 DI collegiate team volleyball statistics from the 2025 season. 
 
+
+
 LEGEND	
+
 Date	Date of Match
 
 Opponent	Opponent played
