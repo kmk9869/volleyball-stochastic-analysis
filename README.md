@@ -3,26 +3,47 @@
 
 LEGEND	
 Date	Date of Match
+
 Opponent	Opponent played
+
 Result	Result of game
+
 SP	Number of Sets Played
+
 K	Total Number of Kills Per Set
+
 E	Total number of hitting errors
+
 TA	total attacks
+
 PCT	Hitting percentage
+
 AST	total number of assists 
+
 SA	service aces
+
 SE	service errors
+
 DIG	number of digs
+
 RE	receive error
+
 BS	solo block
+
 BA	block assist
+
 BE	block error
+
 TB	total number of blocks
+
 BHE	ball handling errors
+
 PTS	total points 
+
 G	gender
+
 Win	binary outcome of wins
+
 team	tracked team 
 
 https://gculopes.com/sports/mens-volleyball/stats/2025				
